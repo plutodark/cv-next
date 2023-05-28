@@ -2894,178 +2894,6 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/next/dist/client/image.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "*",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "default",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "*",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "default",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/Profile/index.js": {
-      "*": {
-        "id": "(sc_client)/./src/components/Profile/index.js",
-        "name": "*",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/Profile/index.js",
-        "name": "",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/Profile/index.js",
-        "name": "default",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/redux/actions/basic.ts": {
-      "*": {
-        "id": "(sc_client)/./src/redux/actions/basic.ts",
-        "name": "*",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/redux/actions/basic.ts",
-        "name": "",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      },
-      "addUserName": {
-        "id": "(sc_client)/./src/redux/actions/basic.ts",
-        "name": "addUserName",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/redux/hooks.ts": {
-      "*": {
-        "id": "(sc_client)/./src/redux/hooks.ts",
-        "name": "*",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/redux/hooks.ts",
-        "name": "",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "useAppDispatch": {
-        "id": "(sc_client)/./src/redux/hooks.ts",
-        "name": "useAppDispatch",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "useAppSelector": {
-        "id": "(sc_client)/./src/redux/hooks.ts",
-        "name": "useAppSelector",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/redux/types.ts": {
-      "*": {
-        "id": "(sc_client)/./src/redux/types.ts",
-        "name": "*",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/redux/types.ts",
-        "name": "",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "BASIC_ADD_NAME": {
-        "id": "(sc_client)/./src/redux/types.ts",
-        "name": "BASIC_ADD_NAME",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "USER_LOGIN": {
-        "id": "(sc_client)/./src/redux/types.ts",
-        "name": "USER_LOGIN",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./node_modules/next/dist/client/add-locale.js": {
       "*": {
         "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
@@ -3274,6 +3102,40 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
+    "(app-client)/./src/redux/hooks.ts": {
+      "*": {
+        "id": "(sc_client)/./src/redux/hooks.ts",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/redux/hooks.ts",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "useAppDispatch": {
+        "id": "(sc_client)/./src/redux/hooks.ts",
+        "name": "useAppDispatch",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "useAppSelector": {
+        "id": "(sc_client)/./src/redux/hooks.ts",
+        "name": "useAppSelector",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./src/redux/provider.tsx": {
       "*": {
         "id": "(sc_client)/./src/redux/provider.tsx",
@@ -3374,6 +3236,144 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/layout:app/layout"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/redux/types.ts": {
+      "*": {
+        "id": "(sc_client)/./src/redux/types.ts",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/redux/types.ts",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "BASIC_ADD_NAME": {
+        "id": "(sc_client)/./src/redux/types.ts",
+        "name": "BASIC_ADD_NAME",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "USER_LOGIN": {
+        "id": "(sc_client)/./src/redux/types.ts",
+        "name": "USER_LOGIN",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/Profile/index.js": {
+      "*": {
+        "id": "(sc_client)/./src/components/Profile/index.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/Profile/index.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/Profile/index.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/redux/actions/basic.ts": {
+      "*": {
+        "id": "(sc_client)/./src/redux/actions/basic.ts",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/redux/actions/basic.ts",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "addUserName": {
+        "id": "(sc_client)/./src/redux/actions/basic.ts",
+        "name": "addUserName",
+        "chunks": [
+          "app/page:app/page"
         ],
         "async": false
       }
@@ -9866,822 +9866,6 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/client/image.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/client/image.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/client/image.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/client/image.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/client/image.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/client/image.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-context.js#AmpStateContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "AmpStateContext",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-context.js#AmpStateContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "AmpStateContext",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-mode.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-mode.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-mode.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-mode.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-mode.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-mode.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-mode.js#isInAmpMode": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "isInAmpMode",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-mode.js#isInAmpMode": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "isInAmpMode",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/head.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/head.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/head.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/head.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/head.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/head.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-blur-svg.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-blur-svg.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-blur-svg.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-blur-svg.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-blur-svg.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-blur-svg.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-blur-svg.js#getImageBlurSvg": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "getImageBlurSvg",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-blur-svg.js#getImageBlurSvg": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "getImageBlurSvg",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config-context.js#ImageConfigContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "ImageConfigContext",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config-context.js#ImageConfigContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "ImageConfigContext",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config.js#VALID_LOADERS": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "VALID_LOADERS",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config.js#VALID_LOADERS": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "VALID_LOADERS",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config.js#imageConfigDefault": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "imageConfigDefault",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config.js#imageConfigDefault": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "imageConfigDefault",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-loader.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-loader.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-loader.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-loader.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-loader.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-loader.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-loader.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-loader.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/match-remote-pattern.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/match-remote-pattern.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/match-remote-pattern.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/match-remote-pattern.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/match-remote-pattern.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/match-remote-pattern.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/match-remote-pattern.js#hasMatch": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "hasMatch",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/match-remote-pattern.js#hasMatch": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "hasMatch",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/match-remote-pattern.js#matchRemotePattern": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "matchRemotePattern",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/match-remote-pattern.js#matchRemotePattern": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "matchRemotePattern",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/side-effect.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/side-effect.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/side-effect.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/side-effect.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/side-effect.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/side-effect.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/side-effect.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/side-effect.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/utils/warn-once.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/utils/warn-once.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/utils/warn-once.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/utils/warn-once.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/utils/warn-once.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/utils/warn-once.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/utils/warn-once.js#warnOnce": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "warnOnce",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/utils/warn-once.js#warnOnce": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "warnOnce",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/components/Profile/index.js": {
-      "id": "(app-client)/./src/components/Profile/index.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/components/Profile/index.js#": {
-      "id": "(app-client)/./src/components/Profile/index.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/components/Profile/index.js#default": {
-      "id": "(app-client)/./src/components/Profile/index.js",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/redux/actions/basic.ts": {
-      "id": "(app-client)/./src/redux/actions/basic.ts",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/redux/actions/basic.ts#": {
-      "id": "(app-client)/./src/redux/actions/basic.ts",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/redux/actions/basic.ts#addUserName": {
-      "id": "(app-client)/./src/redux/actions/basic.ts",
-      "name": "addUserName",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/redux/hooks.ts": {
-      "id": "(app-client)/./src/redux/hooks.ts",
-      "name": "*",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/redux/hooks.ts#": {
-      "id": "(app-client)/./src/redux/hooks.ts",
-      "name": "",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/redux/hooks.ts#useAppDispatch": {
-      "id": "(app-client)/./src/redux/hooks.ts",
-      "name": "useAppDispatch",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/redux/hooks.ts#useAppSelector": {
-      "id": "(app-client)/./src/redux/hooks.ts",
-      "name": "useAppSelector",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/redux/types.ts": {
-      "id": "(app-client)/./src/redux/types.ts",
-      "name": "*",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/redux/types.ts#": {
-      "id": "(app-client)/./src/redux/types.ts",
-      "name": "",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/redux/types.ts#BASIC_ADD_NAME": {
-      "id": "(app-client)/./src/redux/types.ts",
-      "name": "BASIC_ADD_NAME",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "/Users/paul/Documents/code/cv-next/src/redux/types.ts#USER_LOGIN": {
-      "id": "(app-client)/./src/redux/types.ts",
-      "name": "USER_LOGIN",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
     "/Users/paul/Documents/code/cv-next/src/app/globals.css#": {
       "id": "null",
       "name": "default",
@@ -12224,6 +11408,38 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "/Users/paul/Documents/code/cv-next/src/redux/hooks.ts": {
+      "id": "(app-client)/./src/redux/hooks.ts",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/src/redux/hooks.ts#": {
+      "id": "(app-client)/./src/redux/hooks.ts",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/src/redux/hooks.ts#useAppDispatch": {
+      "id": "(app-client)/./src/redux/hooks.ts",
+      "name": "useAppDispatch",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/src/redux/hooks.ts#useAppSelector": {
+      "id": "(app-client)/./src/redux/hooks.ts",
+      "name": "useAppSelector",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
     "/Users/paul/Documents/code/cv-next/src/redux/provider.tsx": {
       "id": "(app-client)/./src/redux/provider.tsx",
       "name": "*",
@@ -12317,6 +11533,790 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/src/redux/types.ts": {
+      "id": "(app-client)/./src/redux/types.ts",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/src/redux/types.ts#": {
+      "id": "(app-client)/./src/redux/types.ts",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/src/redux/types.ts#BASIC_ADD_NAME": {
+      "id": "(app-client)/./src/redux/types.ts",
+      "name": "BASIC_ADD_NAME",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/src/redux/types.ts#USER_LOGIN": {
+      "id": "(app-client)/./src/redux/types.ts",
+      "name": "USER_LOGIN",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-context.js#AmpStateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "AmpStateContext",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-context.js#AmpStateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "AmpStateContext",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-mode.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-mode.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-mode.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-mode.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-mode.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-mode.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/amp-mode.js#isInAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "isInAmpMode",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/amp-mode.js#isInAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "isInAmpMode",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-blur-svg.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-blur-svg.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-blur-svg.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-blur-svg.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-blur-svg.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-blur-svg.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-blur-svg.js#getImageBlurSvg": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "getImageBlurSvg",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-blur-svg.js#getImageBlurSvg": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "getImageBlurSvg",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config-context.js#ImageConfigContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "ImageConfigContext",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config-context.js#ImageConfigContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "ImageConfigContext",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config.js#VALID_LOADERS": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "VALID_LOADERS",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config.js#VALID_LOADERS": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "VALID_LOADERS",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-config.js#imageConfigDefault": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "imageConfigDefault",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-config.js#imageConfigDefault": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "imageConfigDefault",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-loader.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-loader.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-loader.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-loader.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-loader.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-loader.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/image-loader.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/image-loader.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/match-remote-pattern.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/match-remote-pattern.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/match-remote-pattern.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/match-remote-pattern.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/match-remote-pattern.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/match-remote-pattern.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/match-remote-pattern.js#hasMatch": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "hasMatch",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/match-remote-pattern.js#hasMatch": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "hasMatch",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/match-remote-pattern.js#matchRemotePattern": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "matchRemotePattern",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/match-remote-pattern.js#matchRemotePattern": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "matchRemotePattern",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/side-effect.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/side-effect.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/side-effect.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/side-effect.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/side-effect.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/side-effect.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/side-effect.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/side-effect.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/utils/warn-once.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/utils/warn-once.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/utils/warn-once.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/utils/warn-once.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/utils/warn-once.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/utils/warn-once.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/shared/lib/utils/warn-once.js#warnOnce": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "warnOnce",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/node_modules/next/dist/esm/shared/lib/utils/warn-once.js#warnOnce": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "warnOnce",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/src/components/Profile/index.js": {
+      "id": "(app-client)/./src/components/Profile/index.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/src/components/Profile/index.js#": {
+      "id": "(app-client)/./src/components/Profile/index.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/src/components/Profile/index.js#default": {
+      "id": "(app-client)/./src/components/Profile/index.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/src/redux/actions/basic.ts": {
+      "id": "(app-client)/./src/redux/actions/basic.ts",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/src/redux/actions/basic.ts#": {
+      "id": "(app-client)/./src/redux/actions/basic.ts",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "/Users/paul/Documents/code/cv-next/src/redux/actions/basic.ts#addUserName": {
+      "id": "(app-client)/./src/redux/actions/basic.ts",
+      "name": "addUserName",
+      "chunks": [
+        "app/page:app/page"
       ],
       "async": false
     }
